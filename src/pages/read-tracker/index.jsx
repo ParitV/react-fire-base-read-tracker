@@ -1,5 +1,7 @@
 export const ReadTracker = () => {
     return (
-        <p>Hello World</p>
+        <div>
+            <p>Hello world</p>
+        </div>
     )
 }
